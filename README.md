@@ -12,8 +12,8 @@ Análise exploratória do conjunto de dados *Student Performance* (UCI), examina
 - Visualizações para identificação de padrões
 
 ## Arquivos
-student-performance-eda/
-├─ student_performance_eda.ipynb
+student-performance-eda/ <br>
+├─ student_performance_eda.ipynb <br>
 └─ README.md
 
 
