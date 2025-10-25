@@ -13,8 +13,11 @@ Análise exploratória do conjunto de dados *Student Performance* (UCI), examina
 
 ## Arquivos
 student-performance-eda/ <br>
-├─ student_performance_eda.ipynb <br>
-└─ README.md
+├─ LICENSE <br>
+├─ README.md <br>
+├─ eda_student_performance.ipynb <br>
+├─ student-mat.csv <br>
+└─ student-por.csv
 
 
 ## Execução
