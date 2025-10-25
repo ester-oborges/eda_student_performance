@@ -19,6 +19,6 @@ student-performance-eda/ <br>
 
 ## Execução
 ```bash
-git clone https://github.com/ester-oborges/Student-Performance.git
-cd student-performance-eda
-jupyter notebook student_performance_eda.ipynb
+git clone https://github.com/ester-oborges/eda_student_performance.git
+cd eda_student_performance
+jupyter notebook eda_student_performance.ipynb
