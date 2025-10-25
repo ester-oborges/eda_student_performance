@@ -1,7 +1,24 @@
 # Análise Exploratória de Dados — Student Performance
-Este repositório apresenta uma análise exploratória aplicada ao conjunto de dados *Student Performance* (UCI Machine Learning Repository), com foco em investigar fatores associados ao desempenho escolar de estudantes de dois colégios.
 
-## Objetivos
-- Explorar a relação entre variáveis socioeconômicas, familiares e comportamentais e o desempenho acadêmico.
-- Identificar padrões, correlações e possíveis indicadores de risco para baixo rendimento.
-- Apoiar discussões sobre fatores que influenciam notas, reprovações e frequência escolar.
+Análise exploratória do conjunto de dados *Student Performance* (UCI), examinando relações entre fatores familiares, socioeconômicos e comportamentais e o desempenho escolar.
+
+## Dados
+- 649 estudantes do ensino médio
+- Principais variáveis: G1, G2, G3, faltas, reprovações, escolaridade dos responsáveis, hábitos de estudo e convívio social
+
+## Procedimentos
+- Limpeza e organização dos dados (Pandas)
+- Estatísticas descritivas e correlações
+- Visualizações para identificação de padrões
+
+## Arquivos
+student-performance-eda/
+├─ student_performance_eda.ipynb
+└─ README.md
+
+
+## Execução
+```bash
+git clone https://github.com/SEU-USUARIO/student-performance-eda.git
+cd student-performance-eda
+jupyter notebook student_performance_eda.ipynb
